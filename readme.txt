@@ -1,8 +1,3 @@
-使用拖拽方式生成页面布局
-
-无须输入用户名密码, 直接登录
-
-
 采用 yarn 管理包
 yarn install
 yarn add XXX
@@ -40,32 +35,3 @@ https://blog.csdn.net/fabulous1111/article/details/80918032
 yarn add vue-draggable-resizable
 yarn add vue-draggable-resizable-gorkys
 yarn add vue-drag-resize
-# ivewmanframe
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
