@@ -1,0 +1,39 @@
+{
+    "clientKey": "",
+    "clientSecret": "",
+    "content": "",
+    "datas": {
+        "tableColumns":[
+            {"type":"index","width":60,"align":"center"},
+            {"title":"名称","key":"name","sortable":true},
+            {"title":"状态","key":"status","sortable":true},
+            {"title":"描述","key":"portrayal","sortable":true},
+            {"title":"人数","key":"people"},
+            {"title":"采样时间","key":"time"},
+            {"title":"更新时间","key":"update"},
+            {"title":"操作","key":"action","width":200,"align":"center","render":null}
+        ],
+        "tableData":[
+            {"id":"ID_0","name":"任务13","status":3,"portrayal":"测试数据[917]","people":9,"time":6,"update":"2019-08-15 14:37"},
+            {"id":"ID_1","name":"任务24","status":3,"portrayal":"测试数据[4807]","people":3,"time":1,"update":"2019-08-15 14:37"},
+            {"id":"ID_2","name":"任务21","status":1,"portrayal":"测试数据[7853]","people":1,"time":2,"update":"2019-08-15 14:37"},
+            {"id":"ID_3","name":"任务56","status":1,"portrayal":"测试数据[9396]","people":22,"time":7,"update":"2019-08-15 14:37"},
+            {"id":"ID_4","name":"任务98","status":2,"portrayal":"测试数据[1081]","people":23,"time":3,"update":"2019-08-15 14:37"},
+            {"id":"ID_5","name":"任务69","status":2,"portrayal":"测试数据[2716]","people":9,"time":6,"update":"2019-08-15 14:37"},
+            {"id":"ID_6","name":"任务75","status":3,"portrayal":"测试数据[9355]","people":10,"time":7,"update":"2019-08-15 14:37"},
+            {"id":"ID_7","name":"任务58","status":2,"portrayal":"测试数据[6159]","people":6,"time":4,"update":"2019-08-15 14:37"},
+            {"id":"ID_8","name":"任务35","status":3,"portrayal":"测试数据[7469]","people":8,"time":3,"update":"2019-08-15 14:37"},
+            {"id":"ID_9","name":"任务3","status":2,"portrayal":"测试数据[4788]","people":6,"time":5,"update":"2019-08-15 14:37"},
+            {"id":"ID_10","name":"任务20","status":3,"portrayal":"测试数据[5135]","people":13,"time":2,"update":"2019-08-15 14:37"},
+            {"id":"ID_11","name":"任务69","status":2,"portrayal":"测试数据[9605]","people":10,"time":5,"update":"2019-08-15 14:37"}
+        ]
+    },
+    "excDateTime": "2019-07-20 09:37:25",
+    "msgToken": "",
+    "pkgType": "addons.common.web.springController.ControllerReturnJson",
+    "redirect": "",
+    "status": "succ",
+    "statusCode": "",
+    "statusMsg": "",
+    "totalRecordNum": 0
+}

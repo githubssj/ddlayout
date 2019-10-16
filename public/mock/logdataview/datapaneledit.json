@@ -1,0 +1,96 @@
+{
+    "clientKey": "",
+    "clientSecret": "",
+    "content": "",
+    "datas": {
+        "nsneodndctrls": [
+            {
+                "id": 1,
+                "group": "row",
+                "name": "行",
+                "ctrls": [
+                    {
+                        "id": 1,
+                        "type": "row",
+                        "edittype": "",
+                        "name": "行",
+                        "img": "/mock/images/logdataview/hang.png"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "group": "col",
+                "name": "列",
+                "ctrls": [
+                    {
+                        "id": 2,
+                        "type": "col",
+                        "edittype": "",
+                        "name": "列",
+                        "img": "/mock/images/logdataview/lie.png"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "group": "chart",
+                "name": "图表",
+                "ctrls": [
+                    {
+                        "id": 3,
+                        "type": "chart",
+                        "edittype": "",
+                        "width": "",
+                        "dataAdapter":"柱状图数据适配器",
+                        "dataDispatch":"被动抽取规则器",
+                        "name": "柱状图",
+                        "img": "/mock/images/logdataview/zhuzhuangtu.png"
+                    },
+                    {
+                        "id": 4,
+                        "type": "chart",
+                        "edittype": "",
+                        "width": "",
+                        "dataAdapter":"折线图数据适配器",
+                        "dataDispatch":"被动抽取规则器",
+                        "name": "折线图",
+                        "img": "/mock/images/logdataview/zhexiantu.png"
+                    },
+                    {
+                        "id": 5,
+                        "type": "chart",
+                        "edittype": "",
+                        "width": "",
+                        "dataAdapter":"饼图数据适配器",
+                        "dataDispatch":"被动抽取规则器",
+                        "name": "饼图",
+                        "img": "/mock/images/logdataview/bingtu.png"
+                    },
+                    {
+                        "id": 6,
+                        "type": "chart",
+                        "edittype": "",
+                        "width": "",
+                        "dataAdapter":"正负条形图数据适配器",
+                        "dataDispatch":"被动抽取规则器",
+                        "name": "正负条形图",
+                        "img": "/mock/images/logdataview/zhengfutiaoxingtu.png"
+                    }
+                ]
+            }
+        ],
+        "page": {
+            "title": "桌面",
+            "layouts": []
+        }
+    },
+    "excDateTime": "2019-07-20 09:37:25",
+    "msgToken": "",
+    "pkgType": "addons.common.web.springController.ControllerReturnJson",
+    "redirect": "",
+    "status": "succ",
+    "statusCode": "",
+    "statusMsg": "",
+    "totalRecordNum": 0
+}

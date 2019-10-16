@@ -1,0 +1,14 @@
+{
+    "clientKey": "",
+    "clientSecret": "",
+    "content": "",
+    "datas": {"xAxis":{"type":"category","data":["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]},"yAxis":{"type":"value"},"series":[{"data":[820,932,901,934,1290,1330,1320],"type":"line"}]},
+    "excDateTime": "2019-07-20 09:37:25",
+    "msgToken": "",
+    "pkgType": "addons.common.web.springController.ControllerReturnJson",
+    "redirect": "",
+    "status": "succ",
+    "statusCode": "",
+    "statusMsg": "",
+    "totalRecordNum": 0
+}

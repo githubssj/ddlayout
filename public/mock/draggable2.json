@@ -1,0 +1,17 @@
+{
+    "clientKey": "",
+    "clientSecret": "",
+    "content": "",
+    "datas": {
+        "nsneodndctrls":[{"id":1,"group":"row","name":"行","ctrls":[{"id":1,"type":"row","edittype":"","name":"行","img":"/mock/images/hang.png"}]},{"id":1,"group":"col","name":"列","ctrls":[{"id":2,"type":"col","edittype":"","name":"列","img":"/mock/images/lie.png"}]},{"id":2,"group":"chart","name":"图表","ctrls":[{"id":3,"type":"chart","edittype":"","name":"柱状图","img":"/mock/images/zhuzhuangtu.png"},{"id":4,"type":"chart","edittype":"","name":"折线图","img":"/mock/images/zhexiantu.png"},{"id":5,"type":"chart","edittype":"","name":"饼图","img":"/mock/images/bingtu.png"}]}],
+        "page":{"title":"桌面","layouts":[]}
+    },
+    "excDateTime": "2019-07-20 09:37:25",
+    "msgToken": "",
+    "pkgType": "addons.common.web.springController.ControllerReturnJson",
+    "redirect": "",
+    "status": "succ",
+    "statusCode": "",
+    "statusMsg": "",
+    "totalRecordNum": 0
+}

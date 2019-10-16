@@ -1,0 +1,81 @@
+{
+    "clientKey": "",
+    "clientSecret": "",
+    "content": "",
+    "datas": [
+        {
+            "id":"A01",
+            "groupName":"流程组件",
+            "img":"",
+            "type":"",
+            "caption":"",
+            "items":[
+                {
+                    "id":"A01.A01",
+                    "name":"开始",
+                    "type":"",
+                    "caption":"",
+                    "img":"/mxgraph/flowdemo/begin.png"
+                },
+                {
+                    "id":"A01.A02",
+                    "name":"结束",
+                    "caption":"",
+                    "type":"",
+                    "img":"/mxgraph/flowdemo/end.png"
+                },
+                {
+                    "id":"A01.A03",
+                    "name":"节点",
+                    "caption":"",
+                    "type":"",
+                    "img":"/mxgraph/flowdemo/node.png"
+                },{
+                    "id":"A01.A05",
+                    "name":"分支",
+                    "type":"",
+                    "caption":"",
+                    "img":"/mxgraph/flowdemo/branch.png"
+                }
+            ]
+        },{
+            "id":"A02",
+            "groupName":"存储组件",
+            "img":"",
+            "type":"",
+            "caption":"",
+            "items":[
+                {
+                    "id":"A02.A01",
+                    "name":"数据库",
+                    "type":"",
+                    "caption":"",
+                    "img":"/mxgraph/flowdemo/db.png"
+                }
+            ]
+        },{
+            "id":"A03",
+            "groupName":"数据源",
+            "img":"",
+            "type":"",
+            "caption":"",
+            "items":[
+                {
+                    "id":"A03.A01",
+                    "name":"Kafka",
+                    "type":"",
+                    "caption":"",
+                    "img":"/mxgraph/flowdemo/msgserver.png"
+                }
+            ]
+        }
+    ],
+    "excDateTime": "2019-07-20 09:37:25",
+    "msgToken": "",
+    "pkgType": "addons.common.web.springController.ControllerReturnJson",
+    "redirect": "",
+    "status": "succ",
+    "statusCode": "",
+    "statusMsg": "",
+    "totalRecordNum": 0
+}

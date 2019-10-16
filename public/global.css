@@ -1,0 +1,120 @@
+html {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+.nsneo-app {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+.nsneo-page-body {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	flex-direction: column;
+}
+
+.nsneo-page-header {
+	position: relative;
+	height: 60px;
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.nsneo-page-content {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	flex: 1;
+	display: flex;
+}
+
+.nsneo-page-leftmenu {
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	width: 250px;
+	border-right: 1px solid #dcdee2;
+	overflow-y: auto;
+}
+.nsneo-left-menu-empty{
+	display: inline-block;
+	width: 6px;
+}
+.nsneo-left-menu-empty::before{
+ content: ' '
+}
+
+.nsneo-page-rightcontent {
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	flex: 1;
+	overflow: hidden;
+}
+
+.nsneo-container-body {
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+
+/*针对流程图的设计**************************************************************************/
+.nsneo-flow-icon-ctrl{
+	float:left;width:55px;height:55px;text-align:center;margin: 5px;
+}
+.nsneo-flow-icon-ctrl .nsneo-flow-icon-ctrl-img{
+	width:40px;height:40px;
+}
+
+.nsneo-flow-icon-ctrl .nsneo-flow-icon-ctrl-label{
+	color:#336666;
+}
+
+/*针对左侧菜单的设计,字体颜色**************************************************************************/
+.nsneo-left-menuitem {
+	color: #006699 !important;
+}
+.nsneo-left-menuitem .ivu-menu-submenu-title{
+	color: #006699 !important;
+}
+.nsneo-left-menuitem .ivu-menu-item{
+	color: #006699 !important;
+}
+
+/*模块导航部分**************************************************************************/
+.nsneo-module-breadcrumb{
+	float:left;
+}
+.nsneo-module-btns{
+	float:right;
+}
+
+/*针对ivew表格**************************************************************************/
+.nsneo-table-imgcol{
+	height: 60px;
+	width: 60px;
+}
+
+
+/*针对可折叠菜单栏**************************************************************************/

@@ -1,0 +1,28 @@
+{
+    "clientKey": "",
+    "clientSecret": "",
+    "content": "",
+    "datas": {
+        "tableColumns":[
+            {"type":"index","width":60,"align":"center"},
+            {"title":"名称","key":"name","sortable":true},
+            {"title":"状态","key":"state","sortable":true},
+            {"title":"描述","key":"caption","sortable":true},
+            {"title":"访问地址","key":"url"},
+            {"title":"创建时间","key":"createdatetime"},
+            {"title":"操作","key":"action","width":200,"align":"center","render":null}
+        ],
+        "tableData":[
+            {"id":"ID_0","name":"电力能源消耗面板","state":"在用","caption":"电力能源消耗面板","url":"http://localhost:8086/","createdatetime":"2019-08-15 14:37"},
+            {"id":"ID_1","name":"系统访问日志面板","state":"在用","caption":"系统访问日志面板","url":"http://localhost:8086/","createdatetime":"2019-08-15 14:37"}
+        ]
+    },
+    "excDateTime": "2019-07-20 09:37:25",
+    "msgToken": "",
+    "pkgType": "addons.common.web.springController.ControllerReturnJson",
+    "redirect": "",
+    "status": "succ",
+    "statusCode": "",
+    "statusMsg": "",
+    "totalRecordNum": 0
+}

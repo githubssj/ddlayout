@@ -1,0 +1,30 @@
+{
+    "clientKey": "",
+    "clientSecret": "",
+    "content": "",
+    "datas": {
+        "tableColumns":[
+            {"type":"index","width":60,"align":"center"},
+            {"title":"名称","key":"name","sortable":true},
+            {"title":"类型","key":"type","sortable":true},
+            {"title":"状态","key":"state","sortable":true},
+            {"title":"描述","key":"caption","sortable":true},
+            {"title":"创建时间","key":"createdatetime"},
+            {"title":"操作","key":"action","width":200,"align":"center","render":null}
+        ],
+        "tableData":[
+            {"id":"ID_0","name":"柱状图数据适配器","state":"在用","caption":"柱状图数据适配器","renderlib":"echarts","type":"柱状图","createdatetime":"2019-08-15 14:37","img":"/mock/images/logdataview/zhuzhuangtu.png"},
+            {"id":"ID_1","name":"折线图数据适配器","state":"在用","caption":"折线图数据适配器","renderlib":"echarts","type":"折线图","createdatetime":"2019-08-15 14:37","img":"/mock/images/logdataview/zhexiantu.png"},
+            {"id":"ID_2","name":"饼图数据适配器","state":"在用","caption":"饼图数据适配器","renderlib":"echarts","type":"饼图","createdatetime":"2019-08-15 14:37","img":"/mock/images/logdataview/bingtu.png"},
+            {"id":"ID_3","name":"正负条形图数据适配器","state":"在用","caption":"正负条形图数据适配器","renderlib":"echarts","type":"正负条形图","createdatetime":"2019-08-15 14:37","img":"/mock/images/logdataview/zhengfutiaoxingtu.png"}
+        ]
+    },
+    "excDateTime": "2019-07-20 09:37:25",
+    "msgToken": "",
+    "pkgType": "addons.common.web.springController.ControllerReturnJson",
+    "redirect": "",
+    "status": "succ",
+    "statusCode": "",
+    "statusMsg": "",
+    "totalRecordNum": 0
+}

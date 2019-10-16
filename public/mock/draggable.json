@@ -1,0 +1,18 @@
+{
+    "clientKey": "",
+    "clientSecret": "",
+    "content": "",
+    "datas": {
+        "layoutsrcset":[{"id":11,"data":"行","type":1,"img":"/mock/images/hang.png"}],
+        "chartsrcset":[{"id":1,"data":"柱状图","type":1,"img":"/mock/images/zhuzhuangtu.png"},{"id":2,"data":"折线图","type":1,"img":"/mock/images/zhexiantu.png"},{"id":3,"data":"饼图","type":1,"img":"/mock/images/bingtu.png"},{"id":4,"data":"热力图","type":1,"img":"/mock/images/relitu.png"},{"id":5,"data":"仪表盘","type":1,"img":"/mock/images/yibiaopan.png"},{"id":6,"data":"箱型图","type":1,"img":"/mock/images/xiangxingtu.png"}],
+        "pagedatas":[{"id":"1","name":"第一行","type":1,"cols":[{"id":"1","width":6,"type":1,"height":"300px","txt":"测试列1","chart":{"id":1,"datasrc":""},"setting":{}},{"id":"2","width":6,"type":1,"height":"300px","txt":"测试列2","chart":{"id":2,"datasrc":""},"setting":{}}]},{"id":"2","name":"第二行","type":1,"cols":[{"id":"3","width":4,"height":"300px","type":1,"txt":"测试列3","chart":{"id":5,"datasrc":""},"setting":{}},{"id":"4","width":4,"type":1,"height":"300px","txt":"测试列4","chart":{"id":6,"datasrc":""},"setting":{}},{"id":"5","width":2,"type":1,"height":"300px","txt":"测试列5","chart":{"id":6,"datasrc":""},"setting":{}},{"id":"51","width":4,"type":1,"height":"300px","txt":"测试列6","chart":{"id":6,"datasrc":""},"setting":{}},{"id":"52","width":4,"type":1,"height":"300px","txt":"测试列7","chart":{"id":6,"datasrc":""},"setting":{}},{"id":"53","width":4,"type":1,"height":"300px","txt":"测试列8","chart":{"id":6,"datasrc":""},"setting":{}}]}]
+    },
+    "excDateTime": "2019-07-20 09:37:25",
+    "msgToken": "",
+    "pkgType": "addons.common.web.springController.ControllerReturnJson",
+    "redirect": "",
+    "status": "succ",
+    "statusCode": "",
+    "statusMsg": "",
+    "totalRecordNum": 0
+}
